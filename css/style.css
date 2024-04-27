@@ -14,6 +14,11 @@ body {
     background-color: hsl(233, 47%, 7%);
     color :hsl(0, 0%, 100%);
 }
+@media (max-width:750px) {
+    body{
+        padding: 8rem 0rem; 
+    }
+    }
 
 .container {
     padding-left: 15px;
