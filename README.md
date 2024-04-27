@@ -108,3 +108,60 @@ Use this section to outline areas that you want to continue focusing on in futur
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
+# Stats Preview Card Component
+
+This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8fqRsmqj9). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+## Table of Contents
+
+- [Overview](#overview)
+  - [The Challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My Process](#my-process)
+  - [Built With](#built-with)
+  - [What I Learned](#what-i-learned)
+  - [Continued Development](#continued-development)
+- [Author](#author)
+
+## Overview
+
+### The Challenge
+
+The challenge was to build a stats preview card component and get it looking as close to the design as possible.
+
+Users should be able to:
+
+- View the optimal layout depending on their device's screen size
+
+### Screenshot
+
+![Screenshot](./images/image-header-desktop.jpg)
+![Screenshot](./images/image-header-mobile.jpg)
+### Links
+
+- Solution URL: [https://github.com/bennahiaoualid/stats-preview-card-component-main](https://github.com/bennahiaoualid/stats-preview-card-component-main)
+- Live Site URL: [https://bennahiaoualid.github.io/stats-preview-card-component-main/](https://bennahiaoualid.github.io/stats-preview-card-component-main/)
+
+## My Process
+
+### Built With
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Mobile-first workflow
+
+### What I Learned
+
+In this project, I learned how to create a responsive layout using Flexbox. I also practiced working with background images and overlays.
+
+### Continued Development
+
+Moving forward, I plan to continue improving my skills in responsive web design and explore more advanced CSS techniques such as CSS animations and transitions.
+
+## Author
+
+- Frontend Mentor - [@bennahiaoualid](https://www.frontendmentor.io/profile/bennahiaoualid)
+- GitHub - [@bennahiaoualid](https://github.com/bennahiaoualid)
