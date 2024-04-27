@@ -63,18 +63,20 @@ body {
     display: flex;
     flex-wrap: wrap;
     position: absolute;
+    width: 100%;
     top: 50%;
+    left: 50%;
     background-color: hsl(244, 38%, 16%);
-    transform: translateY(-50%);
+    transform: translate(-50%,-50%);
     border-radius: 10px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
-    -webkit-transform: translateY(-50%);
-    -moz-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    -o-transform: translateY(-50%);
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
 }
 
 .card > div{
